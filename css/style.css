@@ -1,8 +1,8 @@
 body{
-    font-family: Arial, Verdana ;
+    font-family: Arial, Verdana;
     color: white;
     background: #000000;
-    margin: 20px 20px 0 20px;
+    margin: 20px 20px 0px 20px;
 }
 h1{
     color: white;
@@ -16,18 +16,17 @@ h2{
 }
 p{
     font: 24px;
-    padding: 10px 0 0 10px;
+    padding: 10px 0px 0px 10px;
 }
 img {
     width: 250px;
     border: 10px dashed white;
     display: block;
     margin: auto;
-    /* how to center image */
 }
 .introduction {
-    margin: 20px, 20px, 20px;
-    padding: 20px, 20px, 20px;
+    margin: 20px 20px 20px;
+    padding: 20px 20px 20px;
     background: #000000;
     border: 2px solid white;
     text-align: left;
@@ -46,14 +45,14 @@ div{
     margin-left: 50px;
     text-align: right;
     background: #FF0000;
-    border-width: 0 0 2px 5px;
+    border-width: 0px 0px 2px 5px;
 }
 .blue {
-    margin: 20px, 20px, 20px;
+    margin: 20px 20px 20px;
     text-align: left;
     background: blue;
     margin-right: 50px;
-    border: 2px 5px 0 0;
+    border: 2px 5px 0px 0px;
 }
 .blue > p {
     color: #C4C4C4;
@@ -65,7 +64,7 @@ div{
     text-align: right;
     background: yellow;
     margin-left: 50px;
-    border:0 0 2px 5px;
+    border:0px 0px 2px 5px;
 }
 .yellow > p {
     color: #707070;
@@ -74,7 +73,7 @@ div{
     text-align: left;
     background: #008500;
     margin-right: 50px;
-    border: 2px 5px 0 0;
+    border: 2px 5px 0px 0px;
 }
 footer {
     background: linear-gradient(#000000, #0000ff 25%, #0066ff 70%, #000000);
@@ -83,5 +82,5 @@ footer {
 footer > p{
     font-size: 20px;
     text-align: right;
-    padding: 15px 15px 15px 0;
+    padding: 15px 15px 15px 0px;
 }
