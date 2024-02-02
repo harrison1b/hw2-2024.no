@@ -2,7 +2,7 @@ body{
     font-family: Arial, Verdana ;
     color: white;
     background: #000000;
-    margin: 20px, 20px, 20px;
+    margin: 20px 20px 0 20px;
 }
 h1{
     color: white;
@@ -35,7 +35,7 @@ img {
 div{
     padding: 20px;
     border: 3px solid white;
-    height: 125px;
+    height: 135px;
 }
 .introduction {
     border-radius: 15px;
@@ -53,6 +53,7 @@ div{
     text-align: left;
     background: blue;
     margin-right: 50px;
+    border: 2px 5px 0 0;
 }
 .blue > p {
     color: #C4C4C4;
